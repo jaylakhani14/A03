@@ -39,3 +39,24 @@ Step 4. Connecting Git to Webstorm using your Github account:
     
     c. Log in to your account and connect
 
+Step 5. Create a repository in Github by choosing the '+' at the top
+
+Step 6. Create a file on Webstorm by going to File, New, HTML File or Style Sheet
+
+Step 7. Setting up GitHub Pages:
+
+    a. Click Settings and check the name of the repository
+    
+    b. Choose the page location, choose 'Master branch'
+    
+    c. Copy your Github.io link into the web browser to check it.
+    
+Rsources:
+
+“GitHub Glossary.” GitHub Glossary - GitHub Help, help.github.com/en/github/getting-started-with-github/github-glossary.
+
+GitHub (2019) GitHub Guides Tutorial. Retrieved March 19, 2019, from https://guides.github.com/activities/hello-world/
+
+Jetbrains. (2019). Git. Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html3.
+
+    
